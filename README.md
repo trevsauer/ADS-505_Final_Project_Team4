@@ -1,4 +1,5 @@
-# ADS-505_Final_Project_Team_4
+# Predicting Credit Risk
+## ADS-505_Final_Project_Team_4
 
 Trevor Sauerbrey, Logan Van Dine, Vicky van der Wagt
 
